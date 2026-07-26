@@ -14,36 +14,35 @@ I'm building toward an entry-level Clinical Data Manager / CRA role. Rather than
 
 ## What's in this repo
 
-| Folder | Contents |
-|---|---|
-| `/data` | Source workbook — `Mock_PhaseII_Clinical_Trial_Final.xlsx` (11 sheets: Demographics, Visits, Adverse Events, Concomitant Medications, Protocol Deviations, Withdrawals, Drug Accountability, Query Log, Data Dictionary) |
-| `/reports` | `01_Data_Reconciliation_Report.md` — cross-form data quality checks with results<br>`02_Query_Log_Analysis.md` — query volume, source, and field-level trend analysis |
-| `/documents` | `Edit_Check_Specification.md` — programmed validation rules derived from the data dictionary<br>`Database_Lock_Readiness_Checklist.md` — lock-readiness sign-off checklist applied to this dataset |
-| `/screenshots` | Screenshots of the actual workbook — Dashboard, Chart Data, Demographics, Adverse Events, Drug Accountability, and Query Log sheets |
+- `Mock_PhaseII_Clinical_Trial_Final.xlsx` — source workbook (11 sheets: Demographics, Visits, Adverse Events, Concomitant Medications, Protocol Deviations, Withdrawals, Drug Accountability, Query Log, Data Dictionary)
+- `01_Data_Reconciliation_Report.md` — cross-form data quality checks with results
+- `02_Query_Log_Analysis.md` — query volume, source, and field-level trend analysis
+- `Edit_Check_Specification.md` — programmed validation rules derived from the data dictionary
+- `Database_Lock_Readiness_Checklist.md` — lock-readiness sign-off checklist applied to this dataset
 
 ## Screenshots
 
 **Study Dashboard**
 
-![Dashboard](screenshots/Dashboard.png)
+![Dashboard](Dashboard.png)
 
 **Chart Data**
 
-![Chart Data](screenshots/Chart_Data.png)
+![Chart Data](Chart_Data.png)
 
 **Source data — sample views**
 
 *Demographics*
-![Demographics](screenshots/Demographics.png)
+![Demographics](Demographics.png)
 
 *Adverse Events*
-![Adverse Events](screenshots/Adverse_Events.png)
+![Adverse Events](Adverse_Events.png)
 
 *Drug Accountability*
-![Drug Accountability](screenshots/Drug_Accountability.png)
+![Drug Accountability](Drug_Accountability.png)
 
 *Query Log*
-![Query Log](screenshots/Query_Log.png)
+![Query Log](Query_Log.png)
 
 ---
 
